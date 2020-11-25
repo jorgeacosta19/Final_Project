@@ -8,6 +8,7 @@ is a Blog page that allows to create a post with picture and decription.
 
 2) Create a Django enviorement:
   Within the terminal select a python interpreter and input as follow
+  
   2.1) code .
   
   2.2)python -m pip install django
