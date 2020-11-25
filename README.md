@@ -1,5 +1,9 @@
 # Final_Project
 
+This is the final project for the course Become a Web Developer from Scratch by BrandTech,
+is a Blog page that allows to create a post with picture and decription. 
+
+
 1) clone this github repository https://github.com/jorgeacosta19/Final_Project
 
 2) Create a Django enviorement:
